@@ -7,7 +7,7 @@ author_profile: true
 
 ---------------------------------------------------------------
 
-**CERTIFICATIONS**  
+**ENGLISH**  
 
 *TOEIC Score: 735/990* 
 *Scholastic Assessment Test Score: 1250/1600* 
