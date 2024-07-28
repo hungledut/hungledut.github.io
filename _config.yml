@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Phuc Hao Do"
+  name             : "Hung Le Viet"
   avatar           : "avatar1.png"
-  bio              : "On the journey to getting better at artificial intelligence"
-  location         : "Saint petersburg, Russia"
+  bio              : "Mathematics is an artist"
+  location         : "Danang, Vietnam"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.sg/citations?hl=vi&user=IfpzzeoAAAAJ"
-  email            : "do.hf@sut.ru"
-  researchgate     : "https://www.researchgate.net/profile/Do-Hao-3" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : " "
+  email            : "hungle.dut@gmail.com"
+  researchgate     : " " # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"https://dophuchao.github.io/"
   bitbucket        :
   codepen          :
