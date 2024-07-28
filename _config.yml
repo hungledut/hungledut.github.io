@@ -86,9 +86,9 @@ author:
   location         : "Danang, Vietnam"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : " "
+  googlescholar    : 
   email            : "hungle.dut@gmail.com"
-  researchgate     : " " # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"https://dophuchao.github.io/"
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"phuchaodo"
+  github           : "https://github.com/hungledut"
   google_plus      :
   keybase          :
   instagram        :
