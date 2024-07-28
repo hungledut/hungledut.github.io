@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Language Certificates"
-permalink: /languages/
+title: "Languagues Certificates"
+permalink: /qualification/
 author_profile: true
 ---
 
 ---------------------------------------------------------------
 
-**ENGLISH**  
+**CERTIFICATIONS**  
 
-*TOEIC Score: 735/990* 
-*Scholastic Assessment Test Score: 1250/1600* 
