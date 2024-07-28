@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Languagues Certificates"
+title: "Language Certificates"
 permalink: /qualification/
 author_profile: true
 ---
 
 ---------------------------------------------------------------
 
-**CERTIFICATIONS**  
+**ENGLISH**  
 
