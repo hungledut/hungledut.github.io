@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Certifications"
-permalink: /qualification/
+title: "Language Certificates"
+permalink: /languages/
 author_profile: true
 ---
 
@@ -9,15 +9,5 @@ author_profile: true
 
 **CERTIFICATIONS**  
 
-**2021** 
-
-- Certificate of Merit for the coach for the university olympic team guiding students to achieve high results in the national student computer olympic competition.
-
-**2020**
-
-- Data Science Certificate. Awarded by Coursera.
-- Deep Learning Certificate. Awarded by Coursera.
-
-**2017**
-
-- Top 5 in “Entropy – Data mining held by John von Neumann Institute.
+*TOEIC Score: 735/990* 
+*Scholastic Assessment Test Score: 1250/1600* 
