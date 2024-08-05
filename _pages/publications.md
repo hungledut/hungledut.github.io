@@ -13,7 +13,7 @@ author_profile: true
 
 [4] Phan Minh Nhat, Ngo Le Huy Hien, Dinh Minh Toan, **Le Viet Hung**, Phan Binh, Phung Thi Anh, Nguyen Thi Hoang Phuong, Nguyen Van Hieu *"EBAR: A Novel Machine Learning Model for Quantifying Chemical Concentrations using NIR Spectroscopy"* [Journal of Universal Computer Science](https://lib.jucs.org/) (UNDER REVIEW)
 
-[3] **Le Viet Hung** , Le Hoang Ngoc Han, Than Van Hong Son, Tran Dinh Minh Khoa. *"A Novel Deep Learning Framework for Gym-Gesture Recognition Using the Combination of Transformer and 3D Pose Estimation"* [CYBERNETICS AND PHYSICS Journal](http://cap.physcon.ru/) (UNDER REVIEW)
+[3] **Le Viet Hung** , Le Hoang Ngoc Han, Than Van Hong Son, Tran Dinh Minh Khoa. *"A Deep Learning Framework for Gym-Gesture Recognition Using the Combination of Transformer and 3D Pose Estimation"* [CYBERNETICS AND PHYSICS Journal](http://cap.physcon.ru/) (UNDER REVIEW)
 
 **2024**  
 
