@@ -16,7 +16,7 @@ author_profile: true
 
 **2024**  
 
-[3] **Le Viet Hung** , Le Hoang Ngoc Han, Than Van Hong Son, Tran Dinh Minh Khoa. *"A Deep Learning Framework for Gym-Gesture Recognition Using the Combination of Transformer and 3D Pose Estimation"* [CYBERNETICS AND PHYSICS Journal](http://cap.physcon.ru/) (ACCEPTED)
+[3] **Le Viet Hung** , Le Hoang Ngoc Han, Tran Dinh Minh Khoa, Than Van Hong Son. *"A Deep Learning Framework for Gym-Gesture Recognition Using the Combination of Transformer and 3D Pose Estimation"* [CYBERNETICS AND PHYSICS Journal](http://cap.physcon.ru/) (ACCEPTED)
 
 [2] **Le Viet Hung** , Phan Binh, Phan Minh Nhat, and Nguyen Van Hieu. *"Enhanced Attention-based Multimodal Deep Learning for Product Categorization on E-commerce Platform"* [13th International Conference on Information Technology and Its Applications 2024](https://cita.vku.udn.vn/) (Lecture Notes in Networks and Systems - Springer) (ACCEPTED) 
 
