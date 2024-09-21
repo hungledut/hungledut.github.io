@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Hung Le Viet. Currently, I am a Bachelor Student in Computer Science at The University of Danang - University of Science and Technology. 
+Hi, I am Hung Le Viet
 
 
 ---------------------------------------------------------------
