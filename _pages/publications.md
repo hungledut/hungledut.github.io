@@ -9,7 +9,7 @@ author_profile: true
 
 **UNDER REVIEW**  
 
-[5] Nguyen Van Hieu, Dinh Minh Toan, Ngo Le Huy Hien, Phan Minh Nhat, Phan Binh, Phung Thi Anh, **Le Viet Hung** *"NIRsViT: A Novel Deep Learning Model for Manure Identification using Near-Infrared-Spectroscopy and Imbalanced Data Handling"* [CYBERNETICS AND PHYSICS Journal](http://cap.physcon.ru/) (UNDER REVIEW)
+[6] Nguyen Van Hieu, Dinh Minh Toan, Ngo Le Huy Hien, Phan Minh Nhat, Phan Binh, Phung Thi Anh, **Le Viet Hung** *"NIRsViT: A Novel Deep Learning Model for Manure Identification using Near-Infrared-Spectroscopy and Imbalanced Data Handling"* [CYBERNETICS AND PHYSICS Journal](http://cap.physcon.ru/) (UNDER REVIEW)
 
 
 **2024**  
