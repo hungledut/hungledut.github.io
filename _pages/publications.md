@@ -14,6 +14,8 @@ author_profile: true
 
 **2024**  
 
+[5] **Le Viet Hung** , Tran Dinh Minh Khoa, Pham Quang Nhut. *"A One-dimensional Generative Diffusion Model for Network Traffic Dataset Generation"* [13th International Conference on Computational Data and Social Networks 2024](https://csonet-conf.github.io/csonet24/index.html) (Lecture Notes in Computer Science - Springer) (ACCEPTED) 
+
 [4] Phan Minh Nhat, Ngo Le Huy Hien, Dinh Minh Toan, **Le Viet Hung**, Phan Binh, Phung Thi Anh, Nguyen Thi Hoang Phuong, Nguyen Van Hieu *"EBAR: A Novel Machine Learning Model for Quantifying Chemical Concentrations using NIR Spectroscopy"* [Journal of Universal Computer Science](https://lib.jucs.org/) (ACCEPTED)
 
 [3] **Le Viet Hung**, Le Hoang Ngoc Han, Tran Dinh Minh Khoa, Than Van Hong Son. *"[A Deep Learning Framework for Gym-Gesture Recognition Using the Combination of Transformer and 3D Pose Estimation](https://doi.org/10.35470/2226-4116-2024-13-2-161-167)"* [CYBERNETICS AND PHYSICS Journal](http://cap.physcon.ru/), Vol. 13, No.2, pp.161-167, Sep. 2024
