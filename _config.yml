@@ -86,7 +86,7 @@ author:
   location         : "Danang, Vietnam"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=o_fKq98AAAAJ&hl=vi"
   email            : "hungle.dut@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : #"https://dophuchao.github.io/"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"phuchaodo"
-  orcid            : #"https://orcid.org/0000-0003-0645-0021"
+  orcid            : "https://orcid.org/0009-0007-5164-4761"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"22366074/do-phuc-hao" # http://stackoverflow.com/users/123456/username
