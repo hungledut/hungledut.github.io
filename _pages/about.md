@@ -14,5 +14,5 @@ Hi, I am Hung Le Viet
 ---------------------------------------------------------------
 📢 **NEWS**  
 
-🛰 2024/11/15: I officially got the admission to School of Computer Science and Engineering, The University of Aizu, Japan 
+🛰 2024/11/15: I officially got the admission to a Master's Program at the School of Computer Science and Engineering, The University of Aizu, Japan 
 
