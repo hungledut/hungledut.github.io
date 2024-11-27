@@ -7,4 +7,4 @@ author_profile: true
 
 ---------------------------------------------------------------
 
-Coming soon...
+**Reviewer:** Data Technologies and Applications Journal 
