@@ -14,7 +14,7 @@ Hi, I am Hung Le Viet
 ---------------------------------------------------------------
 📢 **NEWS**  
 
-✈ 2024/11/29: My team, including Khoa Tran and Nhut Pham, will travel to Bangkok, Thailand on December 14-18, 2024 to present our work at the CSoNet conference.
+✈ 2024/11/29: My team, including Khoa Tran and Nhut Pham, will travel to Bangkok, Thailand on December 14-18, 2024 to present our paper at the CSoNet conference.
 
 🏫 2024/11/15: I officially got the admission to a Master's Program at the School of Computer Science and Engineering, The University of Aizu, Japan 
 
