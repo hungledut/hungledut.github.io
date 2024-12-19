@@ -16,7 +16,7 @@ author_profile: true
 
 [6] Nguyen Van Hieu, Dinh Minh Toan, Ngo Le Huy Hien, Phan Minh Nhat, Phan Binh, Phung Thi Anh, **Le Viet Hung** *"NIRsViT: A Novel Deep Learning Model for Manure Identification using Near-Infrared-Spectroscopy and Imbalanced Data Handling"* [CYBERNETICS AND PHYSICS Journal](http://cap.physcon.ru/) (ACCEPTED)
 
-[5] **Le Viet Hung** , Tran Dinh Minh Khoa, Pham Quang Nhut, Nguyen Cong Danh. *"A One-dimensional Generative Diffusion Model for Network Traffic Dataset Generation"* [13th International Conference on Computational Data and Social Networks 2024](https://csonet-conf.github.io/csonet24/index.html) (Lecture Notes in Computer Science - Springer) (ACCEPTED) 
+[5] **Le Viet Hung** , Tran Dinh Minh Khoa, Pham Quang Nhut, Nguyen Cong Danh. *"A One-dimensional Generative Diffusion Model for Network Traffic Dataset Generation"* [13th International Conference on Computational Data and Social Networks 2024](https://csonet-conf.github.io/csonet24/index.html) (Lecture Notes in Computer Science - Springer) (ACCEPTED) **(BEST STUDENT PAPER RUNNER UP AWARD)**
 
 [4] Phan Minh Nhat, Ngo Le Huy Hien, Dinh Minh Toan, **Le Viet Hung**, Phan Binh, Phung Thi Anh, Nguyen Thi Hoang Phuong, Nguyen Van Hieu *"EBAR: A Novel Machine Learning Model for Quantifying Chemical Concentrations using NIR Spectroscopy"* [Journal of Universal Computer Science](https://lib.jucs.org/) (ACCEPTED)
 
