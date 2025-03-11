@@ -22,4 +22,4 @@ author_profile: true
 
 [2] **Le Viet Hung** , Phan Binh, Phan Minh Nhat, and Nguyen Van Hieu. *"[Enhanced Attention-based Multimodal Deep Learning for Product Categorization on E-commerce Platform](https://doi.org/10.1007/978-3-031-74127-2_8)"* [13th International Conference on Information Technology and Its Applications 2024](https://cita.vku.udn.vn/) (Lecture Notes in Networks and Systems - Springer) 
 
-[1] Than Van Hong Son, Tran Dinh Minh Khoa, Luong Thien, Le Duc Tho, **Le Viet Hung**. *"[A Deep Learning Approach for Real-Time Detection and Evaluation of Oranges on Mobile Devices](https://doi.org/10.1007/978-981-97-7083-0_71)"* [1st International Conference on Sustainability And Emerging Technologies for Smart Manufacturing 2024](https://setsm.org/) (Springer) (ACCEPTED) 
+[1] Than Van Hong Son, Tran Dinh Minh Khoa, Luong Thien, Le Duc Tho, **Le Viet Hung**. *"[A Deep Learning Approach for Real-Time Detection and Evaluation of Oranges on Mobile Devices](https://doi.org/10.1007/978-981-97-7083-0_71)"* [1st International Conference on Sustainability And Emerging Technologies for Smart Manufacturing 2024](https://setsm.org/) (Springer)
