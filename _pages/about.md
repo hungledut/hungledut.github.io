@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hung Le received B.Sc degree in Information Technology from University of Science and Technology, The University of Danang, Vietnam in 2024. He is currently pursuing a M.Sc degree in Computer Science at School of Computer Science and Engineering, The University of Aizu, Japan. 
+Hung Le received a B.Sc. degree in Information Technology from the University of Science and Technology, The University of Danang, Vietnam, in 2024. He is currently pursuing an M.Sc. degree in Computer Science at the School of Computer Science and Engineering, The University of Aizu, Japan.
 
 
