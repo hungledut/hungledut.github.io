@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Hung Le Viet
-
-
----------------------------------------------------------------
-📢 **NEWS**  
-
-️🏆 2024/12/17: We won the BEST STUDENT PAPER RUNNER UP AWARD at the 13th CSoNet conference, Bangkok, Thailand
-
-🏫 2024/12/12: I officially got the admission to a Master's Program at the School of Computer Science and Engineering, The University of Aizu, Japan 
-
-✈ 2024/11/29: We will travel to Bangkok, Thailand on December 14-18, 2024 to present our paper at the CSoNet conference.
+Hung Le earned Bachelor in Information Technology at University of Science and Technology, The University of Danang, Vietnam in 2024. He is currently soon-to-be Master Student at School of Computer Science and Engineering, The University of Aizu, Japan. 
 
 

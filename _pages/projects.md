@@ -7,7 +7,7 @@ author_profile: true
 
 ---------------------------------------------------------------
 
-**AWARD**
+**AWARDS**
 
 BEST STUDENT PAPER RUNNER UP AWARD at the 13th CSoNet (2024)
 
